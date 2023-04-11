@@ -1,2 +1,2 @@
-# CSES-Solutions
+# CSES Solutions
 Solutions to the CSES Tasks
